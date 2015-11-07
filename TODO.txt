@@ -1,0 +1,1 @@
+need to execute on ubuntu because https://github.com/pystruct/pystruct/issues/75
